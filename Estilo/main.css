@@ -62,8 +62,8 @@ main{
 
 
 main section img{
-    width: 700px;
-    height: 300px;
+    width: 40rem;
+    height: 20rem;
     border: #322775 solid 5px;
     margin-top: 50px;
 }
